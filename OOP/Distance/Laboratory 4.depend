@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1729582875 source:d:\onedrive\document\it - oop\laboratory 4\main.cpp
+	<iostream>
+	"Distance.h"
+
+1729585194 source:d:\onedrive\document\it - oop\laboratory 4\distance.cpp
+	"Distance.h"
+	<iostream>
+
+1729585194 d:\onedrive\document\it - oop\laboratory 4\distance.h
+
