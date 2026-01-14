@@ -17,3 +17,5 @@ The main goal of this repository is:
 - To practice writing clean and understandable C++ code
 - To keep track of my learning progress
 - To share my work with others who are also learning C++
+
+hay nako, i deleted all my OOP praktis codes by accident & didn’t have them synced to da cloud
